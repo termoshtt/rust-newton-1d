@@ -1,7 +1,7 @@
 
 extern crate newton;
 
-use newton::newton;
+use newton::one_dim::newton;
 
 fn main() {
     let mut x = -5.0;
